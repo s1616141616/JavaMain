@@ -1,0 +1,25 @@
+GIT Command
+
+git init
+
+git status
+
+git add.
+
+git status
+
+git commit -m "1st Commit"
+
+create Repository in gitHub
+
+copy the url/location of repo
+
+git remote add origin (locastion)
+
+git push -u origin master
+
+
+
+
+
+DONE
